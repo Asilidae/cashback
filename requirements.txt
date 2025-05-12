@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+celery[redis]
+python-multipart
+python-dotenv
+langchain_community
+pymupdf
+flower
+pdfminer.six
+pandas
+PyInstaller
+Unidecode
+XlsxWriter
+pytest
+tqdm
+minio
+openpyxl
